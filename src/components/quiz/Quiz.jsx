@@ -15,7 +15,7 @@ const Quiz = () => {
   let Option4 = useRef(null);
 
   let option_array = [Option1, Option2, Option3, Option4];
-
+// check answers function
   const checkAns = (e, ans) => {
     if (lock === false) {
       if (question.ans === ans) {
