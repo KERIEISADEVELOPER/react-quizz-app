@@ -1,6 +1,6 @@
 export const data = [
   {
-    question: "Which one of these roomates is oldest?",
+    question: "Which one of these roommates is oldest?",
     option1: "Emmanuel",
     option2: "Kerie",
     option3: "David",
