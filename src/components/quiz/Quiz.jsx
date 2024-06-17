@@ -30,6 +30,7 @@ const Quiz = () => {
       }
     }
   };
+  // Wellerman
   const next = () => {
     if (lock === true) {
       if (index === data.length - 1) {
